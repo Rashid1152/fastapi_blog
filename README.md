@@ -14,7 +14,7 @@ A modern blog API built with FastAPI, featuring user authentication, PostgreSQL 
 ## Build and start the containers:
 docker-compose up --build -d
 
-Access the API:
+## Access the API:
 - API Documentation: http://localhost/docs
 - API Endpoints: http://localhost/api
 
@@ -31,5 +31,4 @@ Access the API:
 - `DELETE /api/posts/{id}` - Delete post
 
 ## Running Tests
-Run all tests:
 docker-compose exec web pytest
