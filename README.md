@@ -1,6 +1,6 @@
 # FastAPI Blog API
 
-A modern blog API built with FastAPI, featuring user authentication, PostgreSQL database integration, and comprehensive testing.
+A blog API built with FastAPI, featuring Authentication, Redis caching, PostgreSQL database integration, and comprehensive testing.
 
 ## Features
 - JWT Authentication
